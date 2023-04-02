@@ -8,16 +8,16 @@ Our site is an innnovative solution for a real life problem of lawyers that face
 ![monetize]("https://user-images.githubusercontent.com/122734275/229337283-af127483-f75e-47f2-9efa-53616630d8e5.png">)
 ![gamelevel_intro]("https://user-images.githubusercontent.com/122734275/229337265-e6372e86-0a1f-4390-8b02-4f8839a5d507.png">)
 # Steps to run locally
-• Pull from gitHub
+- Pull from gitHub
 
-• Install live server extension in any code editor of your choice
-• Open index.html 
+- Install live server extension in any code editor of your choice
+- Open index.html 
 
-• Click on run with live server
+- Click on run with live server
 
-• A sign-in page will open, fill out your phone number and enter otp
+- A sign-in page will open, fill out your phone number and enter otp
 
-• Voila! There is the home page of the website
+- Voila! There is the home page of the website
 
 
 # Contributors
