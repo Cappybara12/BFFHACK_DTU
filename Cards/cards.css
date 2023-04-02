@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    border: 2px solid black;
+    justify-content: center;
+    height: 500px;
+}
+
+.card-img-top{
+    height: 100px;
+}
+.card-body{
+    display: flex;
+    align-items: center;
+}

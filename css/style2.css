@@ -1,0 +1,30 @@
+body{
+    
+}
+
+.head{
+    text-align: center;
+    background-image: url("https://www.freewebheaders.com/wp-content/gallery/world-flags/india-grunge-flag-header.jpg");
+    background-position: 5rem;
+}
+#headi{
+    font-size: 4rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(9, 9, 65);
+}
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#ty{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    size: 1rem;
+    text-align: center;
+}
+#cy{
+    color: blue;
+}
+.card-title{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
